@@ -24,7 +24,7 @@ This project has been discontinued. I will continue to merge pull requests howev
 - Auto New Game Feature
 - Runs in Background
 
-Can reach **~4,000** WPM at **~100%** Accuracy*.
+Ca reach **~4,000** WPM at **~100%** Accuracy*.
 
 ## Legal
 
@@ -32,3 +32,5 @@ The NitroTypeHack2, NitroTypeCheat2, NTH5, and all other aliases of this project
 
 I, kgsensei, do not offer protection from tracking and/or provide a privacy policy for 3rd party tools. Use them at your own risk. Additionally, the tool itself as well as third parties may create log files on your computer for debugging/diagnostic reasons. Important third party services included:  
 - CAPTCHA Solver: [Chrome Webstore Download](https://chromewebstore.google.com/detail/captcha-solver-auto-hcapt/hlifkpholllijblknnmbfagnkjneagid), Privacy Policy: [Privacy Policy](https://www.minirpa.net/captchasolver_Privacy.html)
+
+
